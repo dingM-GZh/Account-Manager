@@ -6,3 +6,5 @@ Clone the GitHub repository. No need for extra installations, as all Java framew
 
 `git clone https://github.com/dingM-GZh/Account-Manager.git` will suffice
 
+## Execution 
+If executing from an IDE (like Eclipse), be sure to set 'Run Configuration' to have 'testInput.txt' as a parameter. Otherwise there will be an error. 
